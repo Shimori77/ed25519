@@ -1,4 +1,4 @@
-Ed25519
+Ed25519 with BLAKE3
 =======
 
 This is a portable implementation of [Ed25519](http://ed25519.cr.yp.to/) based
