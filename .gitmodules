@@ -1,0 +1,3 @@
+[submodule "lib/BLAKE3"]
+	path = lib/BLAKE3
+	url = https://github.com/Shimori77/BLAKE3
